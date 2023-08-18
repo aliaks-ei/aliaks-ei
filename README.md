@@ -77,3 +77,8 @@
     </p>
   </div>
 </div>
+
+<div>
+  <h2 align="left">Github stats:</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliaks-ei&theme=aura_dark&layout=pie" alt="Github stats" />
+</div>
