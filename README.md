@@ -1,8 +1,13 @@
 <div>
   <h1 align="center">Hi, I'm Aliaksei <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&size=24&pause=1000&color=E02B12&width=435&lines=Senior+Frontend+Software+Engineer;Passionate+about+web+development;Learning+UX+design" alt="Typing SVG" /></a>
-  </p>
+  <div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&size=24&pause=1000&color=E02B12&width=435&lines=Senior+Frontend+Software+Engineer;Passionate+about+web+development" alt="Typing SVG" /></a>
+  </div>
+  <div align=center>
+      <a href="https://www.linkedin.com/in/aliakseimazheika/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+      <a href="mailto:aliaksei.mazheika@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat" alt="Gmail" /></a>
+      <a href="https://t.me/aliaks_ei"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+  </div>
 
   <hr/>
 
