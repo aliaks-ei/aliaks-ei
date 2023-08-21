@@ -80,5 +80,5 @@
 
 <div>
   <h2 align="left">Github stats:</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliaks-ei&theme=aura_dark&layout=pie" alt="Github stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aliaks-ei&theme=react&layout=compact&hide=pug&langs_count=6" alt="Github stats" />
 </div>
