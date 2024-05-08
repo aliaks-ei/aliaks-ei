@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Hi, I'm Aliaksei <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&size=24&pause=1000&color=E02B12&width=435&lines=Staff+Software+Engineer+|+Tech+Lead;Passionate+about+web+development+and+inclusive+design" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&size=24&pause=1000&color=E02B12&width=435&lines=Staff+Software+Engineer+|+Tech+Lead;Passionate+about+web+development" alt="Typing SVG" /></a>
   </div>
   <div align=center>
       <a href="https://www.linkedin.com/in/aliakseimazheika/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
