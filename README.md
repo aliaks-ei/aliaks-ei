@@ -22,7 +22,7 @@
 
   <div>
     <h2 align="left">Main skills</h2>
-    <p style="display: flex" align="left">
+    <p align="left">
       <a href="https://www.w3.org/html/" target="_blank"> 
         <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
           alt="html5"/> 
