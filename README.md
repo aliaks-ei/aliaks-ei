@@ -13,7 +13,7 @@
 
   <div align=left>
     <ul>
-        <li> 🧑🏼‍💻 Frontend software engineer with education in computer science and <strong> more than 9 years of experience </strong> </li>
+        <li> 🧑🏼‍💻 Frontend software engineer with education in computer science and <strong> 10+ years of experience </strong> </li>
         <li> 💻 I specialize in <strong> Vue.js / React / Typescript </strong>, but I also have experience working with Angular / Svelte. 
         <li> 🥇 Know my way around CSS, responsive design, performance optimization, design patterns and solving problems in the most efficient way </li>
         <li> 📚 Passionate about UI/UX design, usability and accessibility of web applications </li>
