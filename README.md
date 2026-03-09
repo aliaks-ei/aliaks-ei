@@ -49,6 +49,7 @@
 
 ### ✍️ Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Essential resources for learning web accessibility: a comprehensive guide](https://medium.com/@aliaks_ei/essential-resources-for-learning-web-accessibility-a-comprehensive-guide-23f527fbd65a?source=rss-356a1652ddfc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
