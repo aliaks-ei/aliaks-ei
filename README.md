@@ -40,10 +40,10 @@
 <br/>
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliaks-ei&theme=aura_dark&layout=compact&hide=pug" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aliaks-ei&theme=aura_dark&show_icons=true&hide_border=true&count_private=true" alt="General Stats" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliaks-ei&theme=aura_dark&layout=compact&hide=pug" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliaks-ei&theme=aura_dark&show_icons=true&hide_border=true&count_private=true" alt="General Stats" height="170" />
+</p>
 
 <br/>
 
