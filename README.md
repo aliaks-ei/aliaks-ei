@@ -17,8 +17,8 @@
   <a href="https://medium.com/@aliaks_ei">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://t.me/aliaks_ei">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://codepen.io/aliaks_ei">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
   </a>
 </div>
 
@@ -41,8 +41,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliaks-ei&theme=aura_dark&layout=compact&hide=pug" alt="Top Languages" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aliaks-ei&theme=aura_dark&show_icons=true&hide_border=true&count_private=true" alt="General Stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliaks-ei&theme=github_dark" alt="Top Languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aliaks-ei&theme=github_dark" alt="General Stats" width="49%" />
 </p>
 
 <br/>
@@ -51,6 +51,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Essential resources for learning web accessibility: a comprehensive guide](https://medium.com/@aliaks_ei/essential-resources-for-learning-web-accessibility-a-comprehensive-guide-23f527fbd65a?source=rss-356a1652ddfc------2)
 <!-- BLOG-POST-LIST:END -->
+- [View all articles on Medium](https://medium.com/@aliaks_ei)
 
 <br/>
 

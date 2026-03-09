@@ -21,3 +21,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@aliaks_ei"
+          max_post_count: 5
+          readme_path: README.md
